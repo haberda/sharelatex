@@ -1,0 +1,10 @@
+name: sharelatex
+url: https://github.com/haberda/sharelatex
+version: dev
+slug: sharelatex
+arch:
+  - amd64
+description: sharelatex
+startup: system
+boot: manual
+image: thecoolpeople/overleaf_full:3.5.5
