@@ -1,0 +1,2 @@
+build_from: 
+  amd64: thecoolpeople/overleaf_full:3.5.5
